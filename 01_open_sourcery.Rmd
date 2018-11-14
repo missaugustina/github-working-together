@@ -8,6 +8,8 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+This content is available on [Github](https://github.com/missaugustina/github-working-together).
+
 ## What is Open Source?
 
 Open Source is actually a social movement. It's about sharing ideas, communal ownership of what we do, and being participants rather than just consumers.
