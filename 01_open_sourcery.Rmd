@@ -1,0 +1,129 @@
+---
+title: "Open Sourcery 101"
+author: "Augustina Ragwitz"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## What is Open Source?
+
+Open Source is actually a social movement. It's about sharing ideas, communal ownership of what we do, and being participants rather than just consumers.
+
+Q: What volunteer organizations, activity groups, or communities of practice do you participate in?
+
+## Open Source is People
+
+You don't have to go it alone.
+
+ * Make Friends
+ * Social Support
+ * Career Advice
+ * Learn Stuff
+ * Teach Others
+
+Q: Why do you do what you do? What motivates you?
+
+
+## Step i: Create a Github Account
+
+[Github](http://www.github.com) is a social platform for cooperative coding. 
+
+Create an account and fill out your profile.
+
+
+## Step 1: Find someone to help
+
+Many projects use Github Issues to track things they need help with. Take a look at the list of issues and find something that looks interesting, or file a new one.
+
+### Activity 1
+
+Go to the issues page for a repo (list of R-Ladies ones are below). Select an issue that you think would be good for someone new to Github to work on.
+
+ * Q: Did you have an easy or hard time finding something? What features of the issue made it easier to identify as good for new folks to work on?
+ * Q: What is the problem reported in the issue? What is the desired outcome?  
+ * Bonus Q: Why do you think these were provided as suggested projects?
+
+
+### Suggested Projects
+
+ 1. MeetupR - https://github.com/rladies/meetupr/issues
+ 1. RShinyLady - https://github.com/rladies/rshinylady/issues
+ 1. RLadies PDX blog - https://github.com/rladies-pdx/rladies-PDX/issues
+ 1. IBM Using Tensorflow with R - https://github.com/IBM/using-tensorflow-with-r/issues
+ 1. CloudyR MTurkR - https:// https://github.com/cloudyr/MTurkR
+ 1. CloudyR aws.comprehend - https://github.com/cloudyr/aws.comprehend/issues
+ 1. CloudyR aws.ml - https://github.com/cloudyr/aws.ml
+ 1. CloudyR cloudwatch - https://github.com/cloudyr/cloudwatch
+ 1. Tidytext - https://github.com/juliasilge/tidytext/issues
+ 1. ... any more?
+
+
+## Step 2: Help someone help you!
+
+The time we spend on things makes them special. Spending time on someone else's special thing means that person spends time on you, and you become doubly special to them. Asking for help and giving help doesn't mean owing a favor or . You are investing in each other. 
+
+### Activity 1
+
+File a new issue in a Github repository for something you've used recently.
+
+Suggestions:
+
+ * What are some R packages you use regularly? 
+ * How was the documentation? 
+ * Is there test coverage?
+ * Is it clear how they want submissions? Hint: How does the README look? Is there a CONTRIBUTING doc?
+
+Pro-tip: Not all "technical" contributions are code.
+
+Q: What projects made it easier for you to file a new issue? How did they make it easier for you? What made it more difficult in the case of the other projects?
+
+## Step 3: Introduce Yourself
+
+Pick an issue to work on. It can be from either activity. You don't have to get it done right now, we'll just walk through the first steps.
+
+Q: What are the next steps you need to take to work on the issue? Is it fairly clear? If not, what information is missing? 
+
+Bonus Q: If the information is missing and you're not sure, who else can you ask?
+
+1 VOLUNTEER PLZ
+
+### Activity 1
+
+Leave a comment on the issue you want to work on.
+
+ * Introduce yourself
+ * State your intent
+ * State what you think the next steps are. If you don't know, then ask questions to find the missing information.
+ 
+Pro-tip: It's ok to not know everything. Being open about what you don't know is an important life skill. :)
+ 
+## Step 4: Gettin' in the Dirt
+
+While you're waiting for a response, get ready to dive into the code.
+
+Q: Where can you find out how to contribute code on Github? Who can you ask?
+
+2 VOLUNTEERS PLZ!
+
+### Activity
+
+If you already know how to contribute code on Github, find someone who doesn't.
+
+If you don't know how to contribute code on Github, find someone who does.
+
+
+## Conclusion
+
+* What did we do today? What do you think you learned?
+
+
+
+
+
+
+
+
+
